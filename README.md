@@ -1,5 +1,5 @@
 # Super simple server
-*sss* is small static server written in [golang](http://golang.org) to easily test static site on localhost.
+*sss* is small static server written in [golang](http://golang.org) to easily test static sites on localhost.
 
 # Usage
 First install *sss*:
